@@ -1,0 +1,12 @@
+C:\Users\kanna\Desktop\gya-broser\bin\Debug\gya-browser.exe.config
+C:\Users\kanna\Desktop\gya-broser\bin\Debug\gya-browser.exe
+C:\Users\kanna\Desktop\gya-broser\bin\Debug\gya-browser.pdb
+C:\Users\kanna\Desktop\gya-broser\bin\Debug\gya-browser.xml
+C:\Users\kanna\Desktop\gya-broser\obj\Debug\gya_browser.Form1.resources
+C:\Users\kanna\Desktop\gya-broser\obj\Debug\gya_browser.Form2.resources
+C:\Users\kanna\Desktop\gya-broser\obj\Debug\gya_browser.Resources.resources
+C:\Users\kanna\Desktop\gya-broser\obj\Debug\gya-browser.vbproj.GenerateResource.cache
+C:\Users\kanna\Desktop\gya-broser\obj\Debug\gya-browser.vbproj.CoreCompileInputs.cache
+C:\Users\kanna\Desktop\gya-broser\obj\Debug\gya-browser.exe
+C:\Users\kanna\Desktop\gya-broser\obj\Debug\gya-browser.xml
+C:\Users\kanna\Desktop\gya-broser\obj\Debug\gya-browser.pdb
